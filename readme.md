@@ -10,20 +10,18 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Titulo** : MI Proyecto(nombre)
 
-**Web:**   A-dgart.github.io
-
+**Web:**   https://a-dgart.github.io/
 **Autor:**  Alba de Nazaret García Rodrñiguez
-**Resumen** : Este proyecto busca contar las hitorias de migrantes jóvenes, siendo ellos mismos los protagonistas. Esta será una compilación de relatos y crónicas de sus experiencias, exponiendo su lucha de identidad y sentido de pertenencia, herencia migratoria, entre otros temas que abrirán un debate del tema.
+**Resumen** : Este proyecto presenta un recorrido a lo largo de una pequeña parte de mi obra artística, junto con una breve biografía y un quizz sobre el collage. La intención se centra sobre todo en mostrar mis inquietudes, unidas a un juego interactivo que pretende llegar a descubrir al espectador un poco más acerca del collage. 
 
-**Estilo/género:**  Novela / juego / portfolio / documental... etc.
+**Estilo/género:**  Porfolio
 
-**Logotipo** : (insertar imagen y breve justificación, si  tiene) 
+**Logotipo** : A-dgart
 
-(insertar imágenes a resolucion de 100px alto)
 
-**Resolución:** 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
+**Resolución:** 640×320px, alcanzando incluso 1280×640px para una mejor visualización.
 
-**Probado en:**   (indicar dónde has probado que funciona: ej. Google Chrome / MS Edge... /móviles android )
+**Probado en:**   Google Chrome, tanto en ordenador como dispositivo móvil.
 
 **Tamaño proyecto:** 14MB 
 
@@ -33,9 +31,9 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Medios** (donde se tiene presencia relacionada):
 
-- Github:
-- Twitter
-- Instagram
+- Github: A-dgart
+- Twitter: Adggart
+- Instagram: @A.dgart
 
 
 ![girl](https://github.com/mgea/cmi20/blob/master/WalkingGirl_front01.png)
@@ -43,12 +41,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 # 2. Memoria del proyecto 
 
 ### 2.1 Storyboard: 
-
-
-
-(narra brevemente lo que sucede en tu proyecto, puedes usar 3-4 imágenes de apoyo)
-
-
+El porfolio comienza con una portada introductoria que lleva directamente a la biografía. Una vez en la biografía, aparece un botón que traslada a un menú con diferentes apartados (quizz, galería, vídeos y créditos). En cada uno de los apartados podemos encontrar lo referente al título, desde imágenes destacadas de la obra de la autora, un quizz interactivo, videos de inspiración y por último los créditos. Finalmente el espectador puede decidir si retrocede a los distintos apartados del porfolio o si desea emplear más tiempo en la sección en la que se encuentre.  
 
 ### 2.2. Esquema de navegación 
 
