@@ -11,7 +11,9 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 **Titulo** : MI Proyecto(nombre)
 
 **Web:**   https://a-dgart.github.io/
-**Autor:**  Alba de Nazaret García Rodrñiguez
+
+**Autor:**  Alba de Nazaret García Rodríguez
+
 **Resumen** : Este proyecto presenta un recorrido a lo largo de una pequeña parte de mi obra artística, junto con una breve biografía y un quizz sobre el collage. La intención se centra sobre todo en mostrar mis inquietudes, unidas a un juego interactivo que pretende llegar a descubrir al espectador un poco más acerca del collage. 
 
 **Estilo/género:**  Porfolio
@@ -47,8 +49,7 @@ El porfolio comienza con una portada introductoria que lleva directamente a la b
 
 
 
-(imagen con las distintas pantallas de navegación, usa draw.io o cualquier programa de dibujo)
-
+https://github.com/A-dgart/A-dgart.github.io/blob/master/Untitled%20Diagram.png
 
 
 
@@ -78,7 +79,7 @@ Este  proyecto es interesante porque ...
 
 **Publico / audiencia**
 
-- Orientado a 
+- Orientado a todo tipo de artistas interesados en mostrar su producción artística. 
 
 
 
