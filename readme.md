@@ -61,28 +61,27 @@ El porfolio comienza con una portada introductoria que lleva directamente a la b
 ![esquema](https://github.com/A-dgart/A-dgart.github.io/blob/master/Untitled%20Diagram.png)
 
 
+# 3. Metodología
 Metodología de desarrollo de productos multimedia basado en una metodología de UX (User Experience)
 
 
 
 ### Etapa 1: Ideación de proyecto
 
-**Investigación de campo** (propuestas inspiradoras para el proyecto)
+**Investigación de campo** 
 
-- Portfolio [Leonardi Web page](http://www.rleonardi.com/interactive-resume/) para idear cómo organizar el material
-- 
-
+- Portfolio [Juan Requenan](https://thereyouwere.tumblr.com/tagged/book) 
+- Youtube [Anna Malina](https://www.youtube.com/channel/UCmOfeJWr_qtkOyhxh9EY9Bg) 
 
 
 **Motivación de la propuesta** 
 
-Este  proyecto es interesante porque ... 
-
+Este  proyecto es interesante porque presenta la obra de la artista de una forma didáctica e interactiva de la que el espectador puede formar parte interactuando con los diferentes apartados del porfolio web.
 
 
 **Publico / audiencia**
 
-- Orientado a todo tipo de artistas interesados en mostrar su producción artística. 
+- Orientado a todo tipo de público, pero considerando la posibilidad de servir de inspiración a artistas interesados en mostrar su producción artística. 
 
 
 
@@ -90,28 +89,22 @@ Este  proyecto es interesante porque ...
 
 ### Etapa 2: Desarrollo / actividades realizadas
 
-(qué soluciones has planteado y cómo se han resuelto: juego, galería de fotos, grabación de video, etc.)
-
-- Juego. 
-- Video 
-- Instrucciones y ayuda al usuario 
-- Menús y elementos de navegación (botones)
-- etc.
+- Poerfolio: Generando una idea principal de porfolio en la cual, realizado previamente un esquema de navegación y un story board, se presenten los diferentes apartados de los espacios disponibles dentro del mismo. Encontramos diferentes apartados como, una galería, un quizz didáctico, un apartado de inspiración y finalmente los créditos.   
+- Biografía: Se habla brevemente de la artista, de su trayectoria e inquietudes. Adjuntando además links para obtener más información.  
+- Menús y elementos de navegación (botones): Permiten una interacción directa con cada uno de los apartados del porfolio. 
+- Créditos: Aparece una nota de agradecimiento junto con el nombre de la artista y un enlace a su blog.
 
 
 
 ### Etapa 3: Problemas identificados
 
-(que consideras que no  funciona correctamente y por qué )
+Considero que todo funciona perfectamente pero sí que es verdad que he notado ciertos errores con el tamaño de los botones de "volver" aun cuando lo he revisado numerosas veces. Todo lo demás ha funcionado bien a lo largo de todas las prácticas.
 
 
 
 # 4. Conclusiones 
 
-(explica brevemente tu valoración, problemas que has detectado y que te gustaría hacer o mejorar en el futuro )
-
-
-
+En cuanto a mi experiencia con GitHub y Hippani, he de decir que al principio lo encontré un tanto complejo puesto que era la primera vez que me enfrentaba a programas de este tipo. Con forme iban pasando las prácticas, fue todo bastante mejor y más fluido hasta que finalmente usaba los programas sin problema. En cuanto a mi valoración personal del proyecto, me ha resultado confortante hacer un porfolio donde recojo parte de mi creación artística puesto que he descubierto que en mi obra hay un nexo y una estética común. Tambíen he disfrutado mucho hacer todos y cada uno de los apartados de cero, aportándole mi personalidad y esencia
 
 
 
@@ -120,13 +113,18 @@ Este  proyecto es interesante porque ...
 
 **Artículos y blogs ** 
 
-- Crofts, S., Fox, M., Retsema, A. and Williams, B. (2005) *Podcasting: A new technology in search of viable business models*First Monday, 10(9). https://doi.org/10.5210/fm.v10i9.1273. Recuperado el 8 de abril de 2020 de: https://journals.uic.edu/ojs/index.php/fm/article/view/1273/1193
+- Portfolio [Juan Requenan](https://thereyouwere.tumblr.com/tagged/book) 
+- Youtube [Anna Malina](https://www.youtube.com/channel/UCmOfeJWr_qtkOyhxh9EY9Bg)
+- Portfolio [A-dgart](https://permanente-impermanencia.tumblr.com/) 
+- Portfolio [Jana Sojka](https://janasojka.tumblr.com/) 
+
+ 
+ 
 
 **Recursos y materiales audiovisuales:**
 
-* Musica:  
-* Imágenes:  
-* Tipografía
+- Vídeos: https://www.youtube.com/watch?v=Z1cq1DD_zKg&t=4s
+
 
 **Herramientas utilizadas**
 
