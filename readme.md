@@ -89,7 +89,7 @@ Este  proyecto es interesante porque presenta la obra de la artista de una forma
 
 ### Etapa 2: Desarrollo / actividades realizadas
 
-- Poerfolio: Generando una idea principal de porfolio en la cual, realizado previamente un esquema de navegación y un story board, se presenten los diferentes apartados de los espacios disponibles dentro del mismo. Encontramos diferentes apartados como, una galería, un quizz didáctico, un apartado de inspiración y finalmente los créditos.   
+- Porfolio: Generando una idea principal de porfolio en la cual, realizado previamente un esquema de navegación y un story board, se presenten los diferentes apartados de los espacios disponibles dentro del mismo. Encontramos diferentes apartados como, una galería, un quizz didáctico, un apartado de inspiración y finalmente los créditos.   
 - Biografía: Se habla brevemente de la artista, de su trayectoria e inquietudes. Adjuntando además links para obtener más información.  
 - Menús y elementos de navegación (botones): Permiten una interacción directa con cada uno de los apartados del porfolio. 
 - Créditos: Aparece una nota de agradecimiento junto con el nombre de la artista y un enlace a su blog.
