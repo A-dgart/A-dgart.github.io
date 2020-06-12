@@ -48,8 +48,8 @@ El porfolio comienza con una portada introductoria que lleva directamente a la b
 ### 2.2. Esquema de navegación 
 
 
+![esquema](https://github.com/A-dgart/A-dgart.github.io/blob/master/Untitled%20Diagram.png)
 
-https://github.com/A-dgart/A-dgart.github.io/blob/master/Untitled%20Diagram.png
 
 
 
