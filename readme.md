@@ -46,6 +46,8 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 ### 2.1 Storyboard: 
 El porfolio comienza con una portada introductoria que lleva directamente a la biografía. Una vez en la biografía, aparece un botón que traslada a un menú con diferentes apartados (quizz, galería, vídeos y créditos). En cada uno de los apartados podemos encontrar lo referente al título, desde imágenes destacadas de la obra de la autora, un quizz interactivo, videos de inspiración y por último los créditos. Finalmente el espectador puede decidir si retrocede a los distintos apartados del porfolio o si desea emplear más tiempo en la sección en la que se encuentre. 
 
+![imagen](https://github.com/A-dgart/A-dgart.github.io/blob/master/CMI_projectTemplate%20-Storyboard.png)
+
 ![imagen](https://github.com/A-dgart/A-dgart.github.io/blob/master/Captura%20de%20pantalla%20(93).png)
 
 ![imagen](https://github.com/A-dgart/A-dgart.github.io/blob/master/Captura%20de%20pantalla%20(94).png)
