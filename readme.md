@@ -129,12 +129,10 @@ En cuanto a mi experiencia con GitHub y Hippani, he de decir que al principio lo
 **Herramientas utilizadas**
 
 - Hippani Animator 5.1
-- 
 
 
 
-(imagen de la licencia, copiar y pegar aquí la correcta)
+![licencia](https://licensebuttons.net/l/by-nc-nd/3.0/88x31.png)
 
-https://creativecommons.org/licenses/?lang=es
 
 Mayo 2020
